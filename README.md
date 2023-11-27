@@ -1,1 +1,2 @@
 # School_shooting_Analysis
+Utilized Tableau for data analysis and visualization to uncover patterns and trends in school-related gun violence Gathered and analyzed data from credible sources, including the Washington Post and Gun Violence Archive. Explored key factors such as location, casualties, perpetrator demographics, weapon types, and shooting methods. Aiming to identify risk factors, in form prevention strategies, and understand patterns across regions and demographics.
